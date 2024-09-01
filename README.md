@@ -6,4 +6,4 @@
 
 在左侧项目管理器中，选中对应的文件，右键，点击 **在外部应用中打开**，即可。
 
-[![pkIM10J.png](https://s21.ax1x.com/2024/07/16/pkIM10J.png)](https://imgse.com/i/pkIM10J)
+![](https://s21.ax1x.com/2024/09/01/pAEbyQA.png)

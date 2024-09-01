@@ -19,6 +19,11 @@ function openInExternalApp(result) {
 	openFile(command);
 }
 
+function openInVSCode(result) {
+	const filePath = result.fsPath;
+	openFile(`code ${filePath}`);
+}
+
 /**
  * 执行打开文件命令
  * @param {String} command 需要执行的命令
@@ -36,5 +41,6 @@ function openFile(command) {
 }
 
 module.exports = {
-	openInExternalApp
+	openInExternalApp,
+	openInVSCode
 };
